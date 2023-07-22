@@ -1,6 +1,6 @@
 # Data Cleaning and Transformation with Pandas
 
-This repository contains a Python script that demonstrates various data cleaning and transformation techniques using the Pandas library. The script utilizes the famous Titanic dataset in CSV format to perform the operations. Below are the main data cleaning and transformation tasks covered in the script:
+This repository contains a Python script that demonstrates various **data cleaning** and **transformation** techniques using the Pandas library. The script utilizes the famous Titanic dataset in CSV format to perform the operations. Below are the main data cleaning and transformation tasks covered in the script:
 
 ### 1. Removing Columns or Rows:
 - Loading the Titanic dataset into a Pandas DataFrame.
